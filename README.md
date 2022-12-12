@@ -10,8 +10,8 @@ for each deck.
 The training mode can be set to Review or a variation of a multiple choice quiz.
 
 ## Review
-In review mode, the cards are displayed with all content with no quiz, and
-the user can navigate through the cards with Next or Previous buttons.
+In review mode, the cards are displayed with all content and no quiz.
+The user can navigate through the cards with Next or Previous buttons.
 
 ## Multiple Choice Quiz
 For multiple choice quizzes, the correct answer is given in a random position
@@ -30,11 +30,11 @@ each of which has its own entry page in the root directory.
 The content of a deck is located in `decks` and contains the following
 structure:
 
-<deck name>/: A directory for the content of a deck
-config.js: A javascript file containing the JSON configuration for the deck
--> assets/
--> -> images/
--> -> audio/
+`<deck name>/`: A directory for the content of a deck
+- `config.js`: A javascript file containing the JSON configuration for the deck
+- `assets/`
+  - `images/`
+  - `audio/`
 
 ## Decks
 The currently available decks include the following:
