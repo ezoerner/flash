@@ -1,4 +1,8 @@
 # flash
+
+**Note:** This project has been integrated into the [Samskrita-Bharati](https://github.com/Samskrita-Bharati)/[zat.am](https://github.com/Samskrita-Bharati/zat.am) project as an application.
+Any useful innovations in user interface there will also be incorporated here, but the expectation is that the work there will mostly be in adding content to the Sanskrit educational decks.
+
 Flash card web app supporting multiple choice quizzes, with text, images, and audio. Written in Elm and compiled to javascript.
 
 The cards in a deck are displayed in random order.
