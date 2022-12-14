@@ -33,8 +33,8 @@ var sentences = {
     {
       "subjectId": 1,
       "audioUrl": null,
-      "unicode": "बाला गच्छति",
-      "latin": "Bālā gacchati",
+      "unicode": "बाला खादति",
+      "latin": "Bālā khādati",
       "localName": "A girl goes.",
       "description": ""
     },
@@ -57,8 +57,8 @@ var sentences = {
     {
       "subjectId": 4,
       "audioUrl": null,
-      "unicode": "अम्बा पचति",
-      "latin": "Ambā pacati",
+      "unicode": "अम्बा गायति",
+      "latin": "Ambā gāyati",
       "localName": "Mother sings.",
       "description": ""
     },
